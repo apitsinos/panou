@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" role="img" aria-labelledby="title">
+  <title id="title">The Panou Fund</title>
+  <g fill="none" stroke="#183f42" stroke-width="3">
+    <circle cx="49" cy="50" r="39"/>
+    <path d="M31 67V33h20c9 0 14 5 14 13S60 59 51 59H31m0-13h20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M75 67V33" stroke-linecap="round"/>
+  </g>
+  <text x="108" y="52" fill="#183f42" font-family="Georgia,serif" font-size="33" letter-spacing=".5">The Panou Fund</text>
+  <text x="110" y="76" fill="#8b7551" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">INDIVIDUAL ACTION MATTERS</text>
+</svg>

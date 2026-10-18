@@ -1,0 +1,21 @@
+main:
+  - name: "Philoptochos"
+    url: "/philoptochos/"
+    weight: 1
+  - name: "Ukraine"
+    url: "/ukraine/"
+    weight: 2
+  - name: "Liberty"
+    url: "/liberty/"
+    weight: 3
+  - name: "How to Give"
+    url: "/giving/"
+    weight: 4
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "How to Give"
+    url: "/giving/"
+    weight: 2
