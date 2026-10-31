@@ -17,4 +17,4 @@ I’ve taken care of the administrative work so that giving through the fund is 
 
 ## Three initiatives {#initiatives}
 
-<div class="page-link-grid"><a href="{{ '/philoptochos/' | relative_url }}"><span>01 · Compassion</span><strong>Philoptochos</strong><small>Friend of the poor →</small></a><a href="{{ '/liberty/' | relative_url }}"><span>02 · Freedom</span><strong>Liberty</strong><small>Let freedom ring →</small></a><a href="{{ '/ukraine/' | relative_url }}"><span>03 · Solidarity</span><strong>Ukraine</strong><small>For a free people →</small></a></div>
+<div class="page-link-grid"><a href="{{ '/philoptochos/' | relative_url }}"><span>01</span><strong>Philoptochos</strong><small>Friend of the poor →</small></a><a href="{{ '/ukraine/' | relative_url }}"><span>02</span><strong>Ukraine</strong><small>For a free people →</small></a><a href="{{ '/liberty/' | relative_url }}"><span>03</span><strong>Liberty</strong><small>Let freedom ring →</small></a></div>

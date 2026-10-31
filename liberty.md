@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liberty
-eyebrow: Initiative 02 · Freedom
+eyebrow: Initiative 03
 subtitle: Let freedom ring
 permalink: /liberty/
 description: The Panou Fund supports organizations that make the case for liberty and sustain the foundations of a free society.
