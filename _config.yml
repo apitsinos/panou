@@ -1,15 +1,37 @@
-title: "The Panou Fund"
-description: "The Panou Fund advances liberty and relieves human suffering."
-url: "https://apitsinos.github.io"
-baseurl: "/Panou"
+title: Panou Fund
+description: The Panou Fund advances liberty and relieves human suffering.
+baseurl: '/panou'
+url: 'https://apitsinos.github.io'
 permalink: pretty
-
-markdown: kramdown
-
+remote_theme: zerostaticthemes/jekyll-serif-theme
+logo:
+  mobile: images/logo/panou-mark.svg
+  mobile_height: 40px
+  mobile_width: 40px
+  desktop: images/logo/panou-wordmark.svg
+  desktop_height: 42px
+  desktop_width: 184px
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+defaults:
+  - scope:
+      path: ''
+      type: services
+    values:
+      layout: service
+  - scope:
+      path: ''
+      type: team
+    values:
+      layout: team
+plugins:
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock
-  - .jekyll-cache
-  - vendor/
-  - node_modules/
   - README.md
+  - vendor
