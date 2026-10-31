@@ -1,0 +1,24 @@
+main:
+  - name: "Purpose"
+    url: "/purpose/"
+    weight: 1
+  - name: "Liberty"
+    url: "/liberty/"
+    weight: 2
+  - name: "Philoptochos"
+    url: "/philoptochos/"
+    weight: 3
+  - name: "Ukraine"
+    url: "/ukraine/"
+    weight: 4
+  - name: "Giving"
+    url: "/giving/"
+    weight: 5
+
+footer:
+  - name: "Purpose"
+    url: "/purpose/"
+    weight: 1
+  - name: "Giving"
+    url: "/giving/"
+    weight: 2

@@ -1,0 +1,28 @@
+baseurl: ""
+permalink: pretty
+title: "The Panou Fund"
+description: "The Panou Fund advances liberty and relieves human suffering."
+
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "160px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "40px"
+  desktop_width: "200px"
+
+home:
+  limit_services: 6
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: zerostaticthemes/jekyll-serif-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache
+  - vendor/
+  - node_modules/
+  - README.md
