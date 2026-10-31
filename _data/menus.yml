@@ -1,27 +1,26 @@
 main:
-  - name: "Purpose"
-    url: "/purpose/"
+  - name: Purpose
+    url: /purpose/
     weight: 1
-  - name: "Liberty"
-    url: "/liberty/"
+  - name: Philoptochos
+    url: /philoptochos/
     weight: 2
-  - name: "Philoptochos"
-    url: "/philoptochos/"
+  - name: Liberty
+    url: /liberty/
     weight: 3
-  - name: "Ukraine"
-    url: "/ukraine/"
+  - name: Ukraine
+    url: /ukraine/
     weight: 4
-  - name: "Giving"
-    url: "/giving/"
+  - name: Giving
+    url: /giving/
     weight: 5
-
 footer:
-  - name: "Home"
-    url: "/"
+  - name: Purpose
+    url: /purpose/
     weight: 1
-  - name: "Purpose"
-    url: "/purpose/"
+  - name: Initiatives
+    url: /purpose/#initiatives
     weight: 2
-  - name: "Giving"
-    url: "/giving/"
+  - name: Giving
+    url: /giving/
     weight: 3
