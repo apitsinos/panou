@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ukraine
-eyebrow: Initiative 03 · Solidarity
+eyebrow: Initiative 02
 subtitle: For a free people
 permalink: /ukraine/
 description: The Panou Fund supports organizations working to sustain Ukraine and its people through the war.

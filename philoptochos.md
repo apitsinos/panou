@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philoptochos
-eyebrow: Initiative 01 · Compassion
+eyebrow: Initiative 01
 subtitle: Friend of the poor
 permalink: /philoptochos/
 description: The Panou Fund’s Philoptochos initiative supports direct, practical compassion.

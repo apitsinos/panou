@@ -17,6 +17,6 @@ Set the url and baseurl in _config.yml for the chosen repository. For a project 
 
 ## Before publishing
 
-Add the preferred contact method, exact DonorsTrust contribution instructions or link, and final repository/site URL. Confirm the giving language with DonorsTrust before publishing.
+Add the preferred contact method and final repository/site URL before publishing.
 
 Theme: zerostaticthemes/jekyll-serif-theme.
