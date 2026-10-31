@@ -1,0 +1,10 @@
+<div class="header {{ include.headerClass }}">
+  <div class="container header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Panou Fund home">
+      <img src="{{ '/images/logo/panou-mark.svg' | relative_url }}" width="42" height="42" alt="">
+      <span class="brand-copy"><strong>Panou</strong><small>FUND</small></span>
+    </a>
+    {% include main-menu.html %}
+    {% include hamburger.html %}
+  </div>
+</div>
