@@ -4,7 +4,12 @@
       <img src="{{ '/images/logo/panou-mark.svg' | relative_url }}" width="42" height="42" alt="">
       <span class="brand-copy"><strong>Panou</strong><small>FUND</small></span>
     </a>
-    {% include main-menu.html %}
-    {% include hamburger.html %}
+    <nav class="site-nav" aria-label="Main navigation">
+      <ul>
+        {% for item in site.data.menus.main %}
+        <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
   </div>
 </div>
