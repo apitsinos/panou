@@ -2,11 +2,31 @@
 layout: default
 ---
 
-<div class="page-shell">
-  <div class="container narrow">
-    <article class="content-block">
+<div class="hero home-hero">
+  <div class="container hero-inner">
+    <div class="hero-copy">
+      <p class="eyebrow">The Panou Fund</p>
       <h1>{{ page.title }}</h1>
+      <p class="lede">The Panou Fund advances liberty and relieves human suffering.</p>
+    </div>
+  </div>
+</div>
+
+<div class="page-shell">
+  <div class="container content-wrap">
+    <article class="content-panel home-panel">
       {{ content }}
     </article>
+  </div>
+</div>
+
+<div class="initiative-grid">
+  <div class="container">
+    <div class="grid-title">Our Initiatives</div>
+    <div class="initiative-cards">
+      <a class="initiative-card" href="{{ '/liberty/' | relative_url }}">Liberty</a>
+      <a class="initiative-card" href="{{ '/philoptochos/' | relative_url }}">Philoptochos</a>
+      <a class="initiative-card" href="{{ '/ukraine/' | relative_url }}">Ukraine</a>
+    </div>
   </div>
 </div>

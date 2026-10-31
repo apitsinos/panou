@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,17 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
     <header class="site-header">
       <div class="container header-inner">
-        <div class="brand">
-          <a href="{{ '/' | relative_url }}">The Panou Fund</a>
-        </div>
+        <div class="brand"><a href="{{ '/' | relative_url }}">Panou Fund</a></div>
         <nav class="main-nav" aria-label="Main navigation">
           {% assign menu = site.data.menus.main | sort: 'weight' %}
           {% for item in menu %}
@@ -31,9 +28,7 @@
 
     <footer class="site-footer">
       <div class="container footer-inner">
-        <div>
-          <h2>The Panou Fund</h2>
-        </div>
+        <div class="footer-brand">The Panou Fund</div>
         <nav aria-label="Footer navigation">
           {% assign footermenu = site.data.menus.footer | sort: 'weight' %}
           {% for item in footermenu %}

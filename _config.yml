@@ -4,41 +4,7 @@ url: "https://apitsinos.github.io"
 baseurl: "/Panou"
 permalink: pretty
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-
-remote_theme: zerostaticthemes/jekyll-serif-theme
-
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "130px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "40px"
-  desktop_width: "200px"
-
-collections:
-  services:
-    output: true
-    sort_by: weight
-  team:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
-
-sass:
-  style: compressed
+markdown: kramdown
 
 exclude:
   - Gemfile
