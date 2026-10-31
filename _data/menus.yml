@@ -16,9 +16,12 @@ main:
     weight: 5
 
 footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Purpose"
     url: "/purpose/"
-    weight: 1
+    weight: 2
   - name: "Giving"
     url: "/giving/"
-    weight: 2
+    weight: 3

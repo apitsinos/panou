@@ -1,7 +1,13 @@
-baseurl: ""
-permalink: pretty
 title: "The Panou Fund"
 description: "The Panou Fund advances liberty and relieves human suffering."
+url: "https://apitsinos.github.io"
+baseurl: "/Panou"
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: zerostaticthemes/jekyll-serif-theme
 
 exclude:
   - Gemfile
