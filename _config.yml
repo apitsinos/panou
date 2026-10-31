@@ -5,7 +5,7 @@ url: 'https://apitsinos.github.io'
 permalink: pretty
 remote_theme: zerostaticthemes/jekyll-serif-theme
 logo:
-  mobile: images/logo/panou-mark.svg
+  mobile: images/logo/panou-dogwood.svg
   mobile_height: 40px
   mobile_width: 40px
   desktop: images/logo/panou-wordmark.svg
