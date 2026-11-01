@@ -2,21 +2,15 @@ main:
   - name: Purpose
     url: /purpose/
     weight: 1
-  - name: Philoptochos
-    url: /philoptochos/
+  - name: Initiatives
+    url: /purpose/#initiatives
     weight: 2
-  - name: Ukraine
-    url: /ukraine/
-    weight: 3
-  - name: Liberty
-    url: /liberty/
-    weight: 4
   - name: Grants
     url: /grants/
-    weight: 5
+    weight: 3
   - name: Giving
     url: /giving/
-    weight: 6
+    weight: 4
 footer:
   - name: Purpose
     url: /purpose/
