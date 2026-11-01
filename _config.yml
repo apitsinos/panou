@@ -17,6 +17,10 @@ collections:
     sort_by: weight
   team:
     output: true
+  grants:
+    output: true
+    permalink: /grants/:name/
+    sort_by: weight
 defaults:
   - scope:
       path: ''
@@ -28,10 +32,14 @@ defaults:
       type: team
     values:
       layout: team
+  - scope:
+      path: ''
+      type: grants
+    values:
+      layout: grant
 plugins:
   - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - vendor
