@@ -1,0 +1,21 @@
+---
+layout: default
+bodyClass: page-basic
+---
+{% include grants-styles.html %}
+<main class="editorial-page">
+  <div class="container">
+    <header class="page-heading">
+      {% if page.label %}<p class="eyebrow">{{ page.label | escape }}</p>{% endif %}
+      <h1>{{ page.title | escape }}</h1>
+      {% if page.subtitle %}<p class="page-subtitle">{{ page.subtitle | escape }}</p>{% endif %}
+    </header>
+    <ul class="grant-tags grant-detail-tags" aria-label="Tags">
+      {% for tag in page.tags %}
+      <li>{{ tag | escape }}</li>
+      {% endfor %}
+    </ul>
+    <div class="editorial-copy">{{ content }}</div>
+    <div class="page-cta"><a class="text-link" href="{{ '/grants/' | relative_url }}">← All grants</a></div>
+  </div>
+</main>
