@@ -7,7 +7,7 @@ permalink: /liberty/
 description: The Panou Fund supports organizations that make the case for liberty and sustain the foundations of a free society.
 ---
 
-Human beings are better off when they are free. When people are free to speak, worship, associate, and pursue their own ideas of a good life, societies flourish. When they aren’t, everything else erodes.
+Human beings are better off when they are free. When people are free to speak, worship, associate, and pursue their own ideas of a good life, societies flourish. When they aren’t, power takes the place of choice.
 
 Time and again, free markets and free trade have proven to be the greatest engine of prosperity humanity has ever known. Where markets are allowed to work, living standards rise, poverty retreats, and ordinary people build better lives for themselves and their families. That is not an accident; it is what happens when free people exchange, innovate, and cooperate voluntarily rather than by decree.
 
