@@ -1,7 +1,7 @@
 title: The Panou Fund
 description: The Panou Fund advances liberty and relieves human suffering.
-baseurl: '/panou'
-url: 'https://apitsinos.github.io'
+baseurl: ''
+url: 'https://panou.com'
 permalink: pretty
 remote_theme: zerostaticthemes/jekyll-serif-theme
 logo:
