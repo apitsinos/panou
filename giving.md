@@ -15,11 +15,16 @@ I started this fund because I believe individual action matters and because peop
 
 ## How contributions work
 
-Contributions to the Panou Fund are made to DonorsTrust and are deductible to the extent allowed by law. A donor contributes cash, securities, or other assets to the fund and generally receives an immediate tax deduction for the contribution. DonorsTrust holds and controls the assets. DonorsTrust performs due diligence to confirm that each grantee is a qualified public charity, and handles compliance, record keeping, and reporting.
+Contributions to the Panou Fund are made to DonorsTrust. A donor contributes cash, securities, or other assets to the fund. DonorsTrust performs due diligence to confirm that each grantee is a qualified public charity, and handles compliance, record keeping, and reporting.
 
-## Contribute online
+## Contribute through DonorsTrust
 
-To make an online contribution, visit the <a href="https://client.mydonorstrust.org/grantee/achcontribution/choose">DonorsTrust contribution page</a>. On the form, select **Panou Fund** from the fund dropdown, then follow the prompts to complete your contribution.
+1. Open the DonorsTrust contribution page using the button below.
+2. Choose **Panou Fund** from the fund list, then follow the prompts to complete your contribution.
+
+<p><a class="button button-dark" href="https://client.mydonorstrust.org/grantee/achcontribution/choose">Contribute through DonorsTrust <span aria-hidden="true">→</span></a><br><small>This button opens DonorsTrust.</small></p>
+
+Contributions to the Panou Fund are deductible to the extent allowed by law. DonorsTrust holds and administers the assets and reviews grant recommendations.
 
 <div class="giving-note"><span class="note-mark">i</span><p>I recommend grants consistent with the fund’s intent, and DonorsTrust reviews and approves each recommendation.</p></div>
 
