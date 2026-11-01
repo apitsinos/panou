@@ -11,9 +11,12 @@ main:
   - name: Liberty
     url: /liberty/
     weight: 4
+  - name: Grants
+    url: /grants/
+    weight: 5
   - name: Giving
     url: /giving/
-    weight: 5
+    weight: 6
 footer:
   - name: Purpose
     url: /purpose/
@@ -21,6 +24,9 @@ footer:
   - name: Initiatives
     url: /purpose/#initiatives
     weight: 2
+  - name: Grants
+    url: /grants/
+    weight: 3
   - name: Giving
     url: /giving/
-    weight: 3
+    weight: 4
