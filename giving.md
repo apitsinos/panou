@@ -21,6 +21,7 @@ Contributions to the Panou Fund are made to DonorsTrust and are deductible to th
 
 1. Open the DonorsTrust contribution page using the button below.
 2. Choose **Panou Fund** from the fund list, then follow the prompts to complete your contribution.
+3. Please do not add additional notes to your DonorsTrust contribution. Instead, [contact me by email](mailto:alex@pitsinos.com) to discuss which initiative or initiatives you’d like to support.
 
 <p><a class="button button-dark" href="https://client.mydonorstrust.org/grantee/achcontribution/choose" target="_blank" rel="noopener noreferrer">Contribute through DonorsTrust <span aria-hidden="true">→</span></a></p>
 
