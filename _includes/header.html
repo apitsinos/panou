@@ -4,12 +4,5 @@
       <img src="{{ '/images/logo/panou-dogwood.svg' | relative_url }}" width="42" height="42" alt="">
       <span class="brand-copy"><strong>The Panou Fund</strong></span>
     </a>
-    <nav class="site-nav" aria-label="Main navigation">
-      <ul>
-        {% for item in site.data.menus.main %}
-        <li{% if page.url == item.url %} class="active{% if item.url == '/giving/' %} giving{% endif %}"{% elsif item.url == '/giving/' %} class="giving"{% endif %}><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
   </div>
 </div>
