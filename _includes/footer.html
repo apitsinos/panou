@@ -4,6 +4,13 @@
       <div class="col-12">
         <div class="footer-inner">
           <h2 class="footer-title">{{ site.title }}</h2>
+          <nav class="footer-nav" aria-label="Footer navigation">
+            <ul>
+              {% for item in site.data.menus.main %}
+              <li><a href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
         </div>
       </div>
     </div>
