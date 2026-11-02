@@ -4,3 +4,4 @@
 
 .site-nav li.giving a{color:#d99260}.hero h1{color:#fff}
 .footer .footer-nav ul{display:flex;flex-direction:row;flex-wrap:wrap;gap:0 22px;list-style:none;margin:0;padding:0}.footer-nav li{margin:0;padding:0}.footer-nav a{display:flex;align-items:center;min-height:44px}.footer-nav a:hover,.footer-nav a:focus-visible{color:#fff;text-decoration:underline}
+@media(max-width:767px){.site-nav ul,.footer .footer-nav ul{justify-content:center}.footer-inner{flex-direction:column}.footer-nav{width:100%}.site-nav li.giving a{color:var(--ink)}.site-nav li.giving a:hover,.site-nav li.giving.active a{color:var(--orange)}}
