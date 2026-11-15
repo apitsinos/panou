@@ -23,6 +23,10 @@ collections:
     sort_by: weight
 defaults:
   - scope:
+      path: 'google612ba215db1ffc48.html'
+    values:
+      sitemap: false
+  - scope:
       path: ''
       type: services
     values:
