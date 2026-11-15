@@ -39,6 +39,7 @@ defaults:
       layout: grant
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
